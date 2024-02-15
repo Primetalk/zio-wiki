@@ -6,3 +6,6 @@ project/project/
 project/target/
 logs/
 .bsp/
+.bloop/
+.metals/
+.vscode/
